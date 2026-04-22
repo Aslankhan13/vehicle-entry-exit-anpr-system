@@ -1,0 +1,6 @@
+train: C:\Users\aslan\OneDrive\Desktop\VEEMS\yolov10\Train_0\dataset\images\train
+val: C:\Users\aslan\OneDrive\Desktop\VEEMS\yolov10\Train_0\dataset\images\val
+
+nc: 1
+names: ['Plate']
+
